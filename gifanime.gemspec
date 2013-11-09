@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["makimoto@tsuyabu.in"]
   spec.description   = %q{Thin wrapper for RMagick's animated GIF generate feature}
   spec.summary       = %q{This gem wraps RMagick's Magick::ListImage and makes easy create animated GIFs.}
-  spec.homepage      = "https://github.com/makimoto/animegif"
+  spec.homepage      = "https://github.com/makimoto/gifanime"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
